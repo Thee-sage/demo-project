@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1",
+  "released_at": "",
+  "summary": {
+    "title": "Event Registration System",
+    "owner": "Abhijeet Singh",
+    "description": "Web application where users register for college events through a form handled by a Flask backend, with registrations stored in a database.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Abhijeet SIngh",
+    "threatTop": 0
+  }
+}
